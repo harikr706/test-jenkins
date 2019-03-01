@@ -1,0 +1,3 @@
+#!/bin/bash
+HI="Test Project"
+echo $HI
